@@ -3,78 +3,78 @@
     "users" : [
         {
             "id": 1,
-            "name": "afif",
-            "address": "Pekalongan",
+            "name": "irwan",
+            "address": "Cianjur, Indonesia",
             "age": 24,
-            "phone": "0857412312312"
+            "phone": "085814429029"
         },
         {
             "id": 2,
             "name": "bagus",
-            "address": "Jakarta",
+            "address": "Jakarta, Indonesia",
             "age": 22,
             "phone": "0838412312312"
         },
         {
             "id": 3,
             "name": "hendro",
-            "address": "Ngawi",
+            "address": "Ngawi, Indonesia",
             "age": 23,
             "phone": "08574195842312"
         },
         {
             "id": 4,
             "name": "hadi",
-            "address": "Palu",
+            "address": "Palu, Indonesia",
             "age": 21,
             "phone": "08574195842312"
         },
         {
             "id": 5,
             "name": "esti",
-            "address": "Lampung",
+            "address": "Lampung, Indonesia",
             "age": 24,
             "phone": "08574195842312"
         },
         {
             "id": 6,
             "name": "yayan",
-            "address": "Groboga",
+            "address": "Groboga, Indonesia",
             "age": 21,
             "phone": "08574295842312"
         },
         {
             "id": 7,
             "name": "raisa",
-            "address": "Malang",
+            "address": "Malang, Indonesia",
             "age": 23,
             "phone": "08574195842312"
         },
         {
             "id": 8,
             "name": "gatra",
-            "address": "Solo",
+            "address": "Solo, Indonesia",
             "age": 23,
             "phone": "08574195842312"
         },
         {
             "id": 9,
             "name": "bambang",
-            "address": "Salatiga",
+            "address": "Salatiga, Indonesia",
             "age": 23,
             "phone": "08574195842312"
         },
         {
             "id": 10,
             "name": "Budi",
-            "address": "Kediri",
+            "address": "Kediri, Indonesia",
             "age": 27,
             "phone": "08574195842312"
         },
         {
             "id": 11,
             "name": "dedi",
-            "address": "Aceh",
+            "address": "Aceh, Indonesia",
             "age": 25,
             "phone": "08574195842312"
         }
