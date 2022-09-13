@@ -28,55 +28,6 @@
             "address": "Palu, Indonesia",
             "age": 21,
             "phone": "08574195842312"
-        },
-        {
-            "id": 5,
-            "name": "esti",
-            "address": "Lampung, Indonesia",
-            "age": 24,
-            "phone": "08574195842312"
-        },
-        {
-            "id": 6,
-            "name": "yayan",
-            "address": "Groboga, Indonesia",
-            "age": 21,
-            "phone": "08574295842312"
-        },
-        {
-            "id": 7,
-            "name": "raisa",
-            "address": "Malang, Indonesia",
-            "age": 23,
-            "phone": "08574195842312"
-        },
-        {
-            "id": 8,
-            "name": "gatra",
-            "address": "Solo, Indonesia",
-            "age": 23,
-            "phone": "08574195842312"
-        },
-        {
-            "id": 9,
-            "name": "bambang",
-            "address": "Salatiga, Indonesia",
-            "age": 23,
-            "phone": "08574195842312"
-        },
-        {
-            "id": 10,
-            "name": "Budi",
-            "address": "Kediri, Indonesia",
-            "age": 27,
-            "phone": "08574195842312"
-        },
-        {
-            "id": 11,
-            "name": "dedi",
-            "address": "Aceh, Indonesia",
-            "age": 25,
-            "phone": "08574195842312"
         }
       ],
       "categories": [
